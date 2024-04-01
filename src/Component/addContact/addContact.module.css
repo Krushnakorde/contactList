@@ -1,0 +1,44 @@
+
+.formContainer{
+    background-color: red;
+    height:88vh;
+    width:90vw;
+    display: flex;
+    flex-direction: column;
+    padding:0 5vw ;
+}
+
+.formContainer h2{
+    margin: 0;
+}
+
+.formContainer h4{
+    margin-bottom: 0;
+}
+
+.formContainer input{
+    padding:2px;
+    margin: 1vw;
+    width:25vw;
+}
+
+.formContainer label{
+    margin-left:5vw;
+}
+
+.formContainer textarea{
+    margin-left:1vw;
+    width: 25vw;
+}
+
+.formContainer button{
+position: relative;
+left:45%;
+background-color: rgb(7, 202, 246);
+top:3vh;
+}
+
+.formContainer .textareaLabel{
+    position: relative;
+    top:-2vh;
+}

@@ -1,0 +1,25 @@
+
+
+ .nav{
+    display:flex;
+    flex:content;
+    background-color: rgb(118, 248, 5);
+    width:100vw;
+    height:12vh;
+    align-items: center;
+    justify-content:space-around; 
+ }
+
+ .nav button{
+    height:6vh;
+    background-color: burlywood;
+ }
+
+
+ .contactListContainer{
+    background-color: rgb(126, 181, 245);
+    width:100vw;
+    display:flex;
+    overflow:scroll;    
+ }
+

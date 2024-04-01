@@ -1,0 +1,74 @@
+
+.icon{
+    display:flex;
+    justify-content: flex-end;
+    gap:3vw;
+    margin:0;
+     
+}
+
+.icon i{
+    cursor: pointer;
+}
+
+.contact{
+    width:auto;
+    display:flex;
+    flex-direction: column;
+    flex:content;
+    background-color: #fff;
+    margin: 1vw;
+    padding:2vw;
+}
+
+.contact h3{
+    margin-top: 0;
+    color:coral;
+}
+
+.company{
+    background-color: blue;
+    padding:1vw;
+    display: flex;
+    width:25vw;
+    flex-direction: column; 
+    
+
+}
+
+.company p{
+margin: 0;
+}
+
+.company h4{
+    margin:0
+}
+
+.address{
+
+    background-color: rgb(255, 0, 212);
+    padding:1vw;
+    display: flex;
+    width:25vw;
+    flex-direction: column; 
+    margin-top: 1vh;
+
+}
+
+.address p{
+    margin: 0;
+}
+.address h4{
+    margin:0;
+}
+
+.ep{
+    margin:1vh 0;
+}
+
+
+
+
+
+
+
